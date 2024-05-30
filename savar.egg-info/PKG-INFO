@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: savar
+Version: 0.4
+Requires: numpy
+Requires: scipy
+Requires: tigramite
+Requires: matplotlib

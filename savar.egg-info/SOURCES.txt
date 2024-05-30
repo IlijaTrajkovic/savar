@@ -1,0 +1,16 @@
+README.md
+setup.py
+./savar/c_dim_methods.c
+./savar/c_functions.c
+savar/__init__.py
+savar/dim_methods.py
+savar/eval_tools.py
+savar/functions.py
+savar/model_generator.py
+savar/old_spatial_models.py
+savar/savar.py
+savar.egg-info/PKG-INFO
+savar.egg-info/SOURCES.txt
+savar.egg-info/dependency_links.txt
+savar.egg-info/not-zip-safe
+savar.egg-info/top_level.txt
