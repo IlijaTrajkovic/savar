@@ -4,3 +4,9 @@ savar/__pycache__/*
 build/*
 test.py
 savar/c_functions.c
+input/*
+# Ignore all .npy files
+*.npy
+
+# Ignore everything in the savar-env folder
+savar-env/
